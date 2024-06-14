@@ -35,4 +35,4 @@ Windows                  16 hrs 49 mins      ██████████░�
 
  Last Updated on 14/06/2024 07:39:07 UTC
 <!--END_SECTION:waka-->
-[![mindongeon's github activity graph](https://activity-graph.herokuapp.com/graph?username=mindongeon&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![mindongeon's github activity graph](https://activity-graph.herokuapp.com/graph?username=mindongeon&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
