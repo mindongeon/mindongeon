@@ -17,12 +17,12 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-GitIgnore file           0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 
- Last Updated on 09/10/2025 15:37:23 UTC
+ Last Updated on 10/10/2025 15:26:34 UTC
 <!--END_SECTION:waka-->
