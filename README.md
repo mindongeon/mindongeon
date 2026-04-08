@@ -1,13 +1,13 @@
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-5.53%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-5.54%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     190 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-🌆 낮　                     1203 commits        ████████░░░░░░░░░░░░░░░░░   32.92 % 
-🌃 저녁                     1629 commits        ███████████░░░░░░░░░░░░░░   44.58 % 
-🌙 밤　                     632 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+🌞 아침                     196 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+🌆 낮　                     1207 commits        ████████░░░░░░░░░░░░░░░░░   32.92 % 
+🌃 저녁                     1631 commits        ███████████░░░░░░░░░░░░░░   44.49 % 
+🌙 밤　                     632 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
 ```
 
 
@@ -17,17 +17,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     3 hrs 59 mins       ████████████████░░░░░░░░░   64.09 % 
-Markdown                 1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-CLASS                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Java                     7 hrs 28 mins       ███████████████░░░░░░░░░░   58.09 % 
+Markdown                 2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Kotlin                   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+SQL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            5 hrs 21 mins       ██████████████████████░░░   86.07 % 
-Obsidian                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+IntelliJ IDEA            11 hrs 51 mins      ███████████████████████░░   92.04 % 
+Obsidian                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 ```
 
 
- Last Updated on 07/04/2026 16:16:18 UTC
+ Last Updated on 08/04/2026 16:21:08 UTC
 <!--END_SECTION:waka-->
