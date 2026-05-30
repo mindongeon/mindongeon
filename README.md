@@ -17,18 +17,19 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-SQL                      3 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.20 % 
-Java                     2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Kotlin                   1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-JavaScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Java Properties          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+SQL                      4 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.15 % 
+Java                     2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Kotlin                   2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            8 hrs 34 mins       █████████████████████░░░░   83.71 % 
-Unknown Editor           1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Obsidian                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+IntelliJ IDEA            9 hrs 41 mins       █████████████████████░░░░   82.57 % 
+Unknown Editor           1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Claude Code              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Obsidian                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 
 
- Last Updated on 29/05/2026 18:16:57 UTC
+ Last Updated on 30/05/2026 16:11:34 UTC
 <!--END_SECTION:waka-->
