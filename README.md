@@ -1,13 +1,13 @@
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-5.91%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-6.03%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-🌆 낮　                     1348 commits        █████████░░░░░░░░░░░░░░░░   34.31 % 
-🌃 저녁                     1656 commits        ███████████░░░░░░░░░░░░░░   42.15 % 
-🌙 밤　                     640 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+🌞 아침                     285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+🌆 낮　                     1353 commits        █████████░░░░░░░░░░░░░░░░   34.39 % 
+🌃 저녁                     1656 commits        ███████████░░░░░░░░░░░░░░   42.09 % 
+🌙 밤　                     640 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
 ```
 
 
@@ -17,18 +17,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-Kotlin                   1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-SQL                      1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Java                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-HTML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+TypeScript               2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+Kotlin                   1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Java                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+SQL                      1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+CSS                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 🔥 에디터들: 
-Claude Code              5 hrs 50 mins       ████████████████░░░░░░░░░   64.94 % 
-IntelliJ IDEA            3 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.73 % 
-Obsidian                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Claude Code              5 hrs 55 mins       █████████████████░░░░░░░░   67.05 % 
+IntelliJ IDEA            2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
 ```
 
 
- Last Updated on 30/06/2026 17:11:26 UTC
+ Last Updated on 01/07/2026 17:23:03 UTC
 <!--END_SECTION:waka-->
