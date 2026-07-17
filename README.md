@@ -17,17 +17,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Java                     2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-JavaScript               1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Markdown                 1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-SQL                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+TypeScript               3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+SQL                      2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Markdown                 1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Java                     1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+JavaScript               1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            8 hrs 11 mins       ██████████████░░░░░░░░░░░   55.12 % 
-Claude Code              6 hrs 39 mins       ███████████░░░░░░░░░░░░░░   44.88 % 
+Claude Code              9 hrs 22 mins       █████████████░░░░░░░░░░░░   50.52 % 
+IntelliJ IDEA            9 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.48 % 
 ```
 
 
- Last Updated on 16/07/2026 16:25:28 UTC
+ Last Updated on 17/07/2026 16:23:01 UTC
 <!--END_SECTION:waka-->
