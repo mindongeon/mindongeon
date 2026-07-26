@@ -15,18 +15,18 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Kotlin                   5 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Markdown                 5 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-SQL                      2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-TypeScript               2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Bash                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Kotlin                   5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Markdown                 5 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+SQL                      2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+TypeScript               2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Bash                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 에디터들: 
-Claude Code              13 hrs 16 mins      █████████████░░░░░░░░░░░░   50.94 % 
-IntelliJ IDEA            12 hrs 21 mins      ████████████░░░░░░░░░░░░░   47.47 % 
-Antigravity CLI          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Claude Code              13 hrs 42 mins      █████████████░░░░░░░░░░░░   51.68 % 
+IntelliJ IDEA            12 hrs 24 mins      ████████████░░░░░░░░░░░░░   46.76 % 
+Antigravity CLI          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
- Last Updated on 25/07/2026 16:11:04 UTC
+ Last Updated on 26/07/2026 16:11:00 UTC
 <!--END_SECTION:waka-->
