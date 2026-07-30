@@ -1,12 +1,12 @@
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%2053%20mins-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
 🌞 아침                     379 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-🌆 낮　                     1476 commits        █████████░░░░░░░░░░░░░░░░   35.46 % 
-🌃 저녁                     1664 commits        ██████████░░░░░░░░░░░░░░░   39.97 % 
+🌆 낮　                     1477 commits        █████████░░░░░░░░░░░░░░░░   35.47 % 
+🌃 저녁                     1664 commits        ██████████░░░░░░░░░░░░░░░   39.96 % 
 🌙 밤　                     644 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
 ```
 
@@ -17,43 +17,44 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Kotlin                   8 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-Java                     5 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Markdown                 5 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-SQL                      2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Bash                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Kotlin                   9 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.79 % 
+Markdown                 5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Java                     4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+SQL                      2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Bash                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🔥 에디터들: 
-Claude Code              15 hrs 42 mins      █████████████░░░░░░░░░░░░   53.21 % 
-IntelliJ IDEA            13 hrs 16 mins      ███████████░░░░░░░░░░░░░░   44.99 % 
-Antigravity CLI          31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Claude Code              16 hrs 51 mins      ██████████████░░░░░░░░░░░   56.10 % 
+IntelliJ IDEA            12 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   41.68 % 
+Antigravity CLI          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 32 mins (66.17%)
+⏱ AI Coding Time: 20 hrs 47 mins (69.16%)
 
-✍️ 18,853 lines written by AI, 780 lines written by hand (96.03% AI-written)
+✍️ 16,021 lines written by AI, 1,005 lines written by hand (94.1% AI-written)
 
-🔤 462,891,502 Input Tokens, 2,403,298 Output Tokens
+🔤 525,540,885 Input Tokens, 2,497,830 Output Tokens
 
-💵 $2329.45 Estimated AI Cost This Week
+💵 $2441.31 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 175 AI Prompts
+🧠 64 AI Sessions, 189 AI Prompts
 
-Opus                     19,309 lines        █████████████████████████   98.56 % 
-Nemotron                 211 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Gemini                   71 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Opus                     15,283 lines        ███████████████████████░░   90.84 % 
+Sonnet                   1,260 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Nemotron                 211 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Gemini                   71 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.03% of written lines came from AI
-📚 Verbose Prompter — average 2,108 characters per prompt
+🤖 AI-Driven — 94.1% of written lines came from AI
+📚 Verbose Prompter — average 2,026 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 7.72% of changed lines were hand-edited
+🚀 High AI Trust — 10.42% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 16:28:53 UTC
+ Last Updated on 30/07/2026 16:44:12 UTC
 <!--END_SECTION:waka-->
