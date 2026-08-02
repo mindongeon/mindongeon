@@ -17,44 +17,44 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Kotlin                   7 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.31 % 
-Java                     5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Markdown                 3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-SQL                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-HTML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Kotlin                   7 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.63 % 
+Java                     5 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Markdown                 3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+SQL                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+HTML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🔥 에디터들: 
-Claude Code              13 hrs 34 mins      ██████████████░░░░░░░░░░░   57.03 % 
-IntelliJ IDEA            9 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   41.31 % 
-Antigravity CLI          23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Claude Code              13 hrs 7 mins       ██████████████░░░░░░░░░░░   56.32 % 
+IntelliJ IDEA            9 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.99 % 
+Antigravity CLI          23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 6 mins (67.65%)
+⏱ AI Coding Time: 15 hrs 36 mins (66.96%)
 
-✍️ 13,469 lines written by AI, 6,095 lines written by hand (68.85% AI-written)
+✍️ 12,854 lines written by AI, 6,095 lines written by hand (67.83% AI-written)
 
-🔤 397,523,032 Input Tokens, 1,873,102 Output Tokens
+🔤 374,043,917 Input Tokens, 1,772,232 Output Tokens
 
-💵 $1766.45 Estimated AI Cost This Week
+💵 $1648.07 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 117 AI Prompts
+🧠 41 AI Sessions, 106 AI Prompts
 
-Opus                     11,616 lines        ████████████████████░░░░░   80.23 % 
-Sonnet                   2,791 lines         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Gemini                   71 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Opus                     10,984 lines        ████████████████████░░░░░   79.33 % 
+Sonnet                   2,791 lines         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Gemini                   71 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.85% of written lines came from AI
-📚 Verbose Prompter — average 3,072 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 35.04% of changed lines were hand-edited
+🤖 AI-Driven — 67.83% of written lines came from AI
+📚 Verbose Prompter — average 2,054 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 36.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 16:08:52 UTC
+ Last Updated on 02/08/2026 16:08:59 UTC
 <!--END_SECTION:waka-->
