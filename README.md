@@ -4,10 +4,10 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     380 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-🌆 낮　                     1477 commits        █████████░░░░░░░░░░░░░░░░   35.45 % 
-🌃 저녁                     1665 commits        ██████████░░░░░░░░░░░░░░░   39.97 % 
-🌙 밤　                     644 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+🌞 아침                     385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+🌆 낮　                     1479 commits        █████████░░░░░░░░░░░░░░░░   35.43 % 
+🌃 저녁                     1666 commits        ██████████░░░░░░░░░░░░░░░   39.90 % 
+🌙 밤　                     645 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 ```
 
 
@@ -17,44 +17,43 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Kotlin                   7 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.63 % 
-Java                     5 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Markdown                 3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-SQL                      1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-HTML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Kotlin                   4 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.08 % 
+Markdown                 2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Java                     2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+SQL                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Bash                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 🔥 에디터들: 
-Claude Code              13 hrs 7 mins       ██████████████░░░░░░░░░░░   56.32 % 
-IntelliJ IDEA            9 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.99 % 
-Antigravity CLI          23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Claude Code              9 hrs 18 mins       ██████████████░░░░░░░░░░░   57.19 % 
+IntelliJ IDEA            6 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.58 % 
+Antigravity CLI          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 36 mins (66.96%)
+⏱ AI Coding Time: 10 hrs 52 mins (66.81%)
 
-✍️ 12,854 lines written by AI, 6,095 lines written by hand (67.83% AI-written)
+✍️ 8,387 lines written by AI, 5,780 lines written by hand (59.2% AI-written)
 
-🔤 374,043,917 Input Tokens, 1,772,232 Output Tokens
+🔤 239,457,875 Input Tokens, 1,208,774 Output Tokens
 
-💵 $1648.07 Estimated AI Cost This Week
+💵 $963.38 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 106 AI Prompts
+🧠 27 AI Sessions, 76 AI Prompts
 
-Opus                     10,984 lines        ████████████████████░░░░░   79.33 % 
-Sonnet                   2,791 lines         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Gemini                   71 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     5,981 lines         █████████████████░░░░░░░░   68.15 % 
+Sonnet                   2,791 lines         ████████░░░░░░░░░░░░░░░░░   31.80 % 
+Gemini                   4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.83% of written lines came from AI
-📚 Verbose Prompter — average 2,054 characters per prompt
+⚖️ Balanced with AI — 59.2% of written lines came from AI
+📄 Detailed Prompter — average 581 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 36.06% of changed lines were hand-edited
+🚀 High AI Trust — 45.58% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 16:08:59 UTC
+ Last Updated on 04/08/2026 16:59:59 UTC
 <!--END_SECTION:waka-->
