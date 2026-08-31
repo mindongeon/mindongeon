@@ -17,14 +17,14 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     2 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.87 % 
-Markdown                 1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   33.63 % 
-SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Java Properties          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Java                     3 hrs 19 mins       █████████████░░░░░░░░░░░░   53.53 % 
+Markdown                 1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+SQL                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Java Properties          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            4 hrs 29 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            6 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -34,5 +34,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/08/2026 18:34:31 UTC
+ Last Updated on 31/08/2026 20:47:32 UTC
 <!--END_SECTION:waka-->
