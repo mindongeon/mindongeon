@@ -4,10 +4,10 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     398 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-🌆 낮　                     1555 commits        █████████░░░░░░░░░░░░░░░░   36.53 % 
-🌃 저녁                     1663 commits        ██████████░░░░░░░░░░░░░░░   39.07 % 
-🌙 밤　                     641 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+🌞 아침                     411 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+🌆 낮　                     1574 commits        █████████░░░░░░░░░░░░░░░░   36.65 % 
+🌃 저녁                     1669 commits        ██████████░░░░░░░░░░░░░░░   38.86 % 
+🌙 밤　                     641 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 ```
 
 
@@ -17,23 +17,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.58 % 
-INI                      56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Other                    46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-JavaScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Java                     1 hr 48 mins        ████████████░░░░░░░░░░░░░   46.90 % 
+Other                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+JavaScript               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            4 hrs 52 mins       █████████████████████░░░░   85.22 % 
-Claude Code              50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+IntelliJ IDEA            3 hrs               ████████████████████░░░░░   78.07 % 
+Claude Code              50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 mins (17.27%)
+⏱ AI Coding Time: 59 mins (25.62%)
 
-✍️ 0 lines written by AI, 8,139 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 334 lines written by hand (0.0% AI-written)
 
 🔤 218,716 Input Tokens, 74,025 Output Tokens
 
@@ -51,5 +51,5 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/09/2026 18:29:56 UTC
+ Last Updated on 10/09/2026 18:18:35 UTC
 <!--END_SECTION:waka-->
