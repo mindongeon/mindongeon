@@ -17,23 +17,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     1 hr 48 mins        ████████████░░░░░░░░░░░░░   46.90 % 
-Other                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-JavaScript               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Other                    46 mins             ████████░░░░░░░░░░░░░░░░░   33.88 % 
+Java                     39 mins             ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+SQL                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Markdown                 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            3 hrs               ████████████████████░░░░░   78.07 % 
-Claude Code              50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+IntelliJ IDEA            1 hr 26 mins        ████████████████░░░░░░░░░   62.91 % 
+Claude Code              50 mins             █████████░░░░░░░░░░░░░░░░   37.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 mins (25.62%)
+⏱ AI Coding Time: 59 mins (43.33%)
 
-✍️ 0 lines written by AI, 334 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 157 lines written by hand (0.0% AI-written)
 
 🔤 218,716 Input Tokens, 74,025 Output Tokens
 
@@ -51,5 +51,5 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/09/2026 18:18:35 UTC
+ Last Updated on 11/09/2026 18:23:06 UTC
 <!--END_SECTION:waka-->
