@@ -17,23 +17,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-SQL                      26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-TypeScript               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Markdown                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Kotlin                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+SQL                      31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+TypeScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+C++                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Java                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            1 hr 16 mins        ███████████████░░░░░░░░░░   60.84 % 
-Claude Code              49 mins             ██████████░░░░░░░░░░░░░░░   39.16 % 
+IntelliJ IDEA            1 hr 37 mins        █████████████████░░░░░░░░   66.49 % 
+Claude Code              49 mins             ████████░░░░░░░░░░░░░░░░░   33.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 mins (41.2%)
+⏱ AI Coding Time: 51 mins (35.26%)
 
-✍️ 1,480 lines written by AI, 329 lines written by hand (81.81% AI-written)
+✍️ 1,480 lines written by AI, 566 lines written by hand (72.34% AI-written)
 
 🔤 269,686 Input Tokens, 94,468 Output Tokens
 
@@ -44,12 +44,12 @@ Claude Code              49 mins             ██████████░�
 Opus                     1,480 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.81% of written lines came from AI
+🤖 AI-Driven — 72.34% of written lines came from AI
 📝 Concise Prompter — average 65 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 18.9% of changed lines were hand-edited
+🚀 High AI Trust — 40.94% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/09/2026 18:53:17 UTC
+ Last Updated on 16/09/2026 18:49:53 UTC
 <!--END_SECTION:waka-->
