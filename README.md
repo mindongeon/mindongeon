@@ -17,21 +17,21 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-SQL                      31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+SQL                      31 mins             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
 TypeScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-C++                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Java                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+C++                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Java                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            1 hr 37 mins        █████████████████░░░░░░░░   66.49 % 
-Claude Code              49 mins             ████████░░░░░░░░░░░░░░░░░   33.51 % 
+IntelliJ IDEA            1 hr 37 mins        █████████████████░░░░░░░░   66.47 % 
+Claude Code              49 mins             ████████░░░░░░░░░░░░░░░░░   33.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 mins (35.26%)
+⏱ AI Coding Time: 51 mins (35.28%)
 
 ✍️ 1,480 lines written by AI, 566 lines written by hand (72.34% AI-written)
 
@@ -51,5 +51,5 @@ Opus                     1,480 lines         ███████████�
 ```
 
 
- Last Updated on 16/09/2026 18:49:53 UTC
+ Last Updated on 17/09/2026 18:57:02 UTC
 <!--END_SECTION:waka-->
