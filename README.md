@@ -4,10 +4,10 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     412 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-🌆 낮　                     1574 commits        █████████░░░░░░░░░░░░░░░░   36.64 % 
-🌃 저녁                     1669 commits        ██████████░░░░░░░░░░░░░░░   38.85 % 
-🌙 밤　                     641 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+🌞 아침                     417 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+🌆 낮　                     1574 commits        █████████░░░░░░░░░░░░░░░░   36.60 % 
+🌃 저녁                     1669 commits        ██████████░░░░░░░░░░░░░░░   38.80 % 
+🌙 밤　                     641 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
 ```
 
 
@@ -17,39 +17,22 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     43 mins             █████████░░░░░░░░░░░░░░░░   35.07 % 
-C++                      19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-SQL                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Kotlin                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Java                     28 mins             ███████████░░░░░░░░░░░░░░   42.52 % 
+C++                      19 mins             ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+CLASS                    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+SQL                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            1 hr 35 mins        ███████████████████░░░░░░   76.91 % 
-Claude Code              28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+IntelliJ IDEA            1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (25.16%)
-
-✍️ 1,480 lines written by AI, 399 lines written by hand (78.77% AI-written)
-
-🔤 173,838 Input Tokens, 69,836 Output Tokens
-
-💵 $5.25 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Opus                     1,480 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 78.77% of written lines came from AI
-📝 Concise Prompter — average 154 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 36.7% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 20/09/2026 18:12:03 UTC
+ Last Updated on 21/09/2026 19:58:34 UTC
 <!--END_SECTION:waka-->
