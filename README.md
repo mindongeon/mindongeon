@@ -17,11 +17,7 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     28 mins             █████████████████████████   99.97 % 
-HOCON                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java                     28 mins             █████████████████████████   100.00 % 
 
 🔥 에디터들: 
 IntelliJ IDEA            28 mins             █████████████████████████   100.00 % 
@@ -34,5 +30,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 23/09/2026 18:59:37 UTC
+ Last Updated on 24/09/2026 19:01:50 UTC
 <!--END_SECTION:waka-->
