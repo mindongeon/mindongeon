@@ -17,10 +17,10 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     28 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-IntelliJ IDEA            28 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
@@ -30,5 +30,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 24/09/2026 19:01:50 UTC
+ Last Updated on 25/09/2026 19:14:27 UTC
 <!--END_SECTION:waka-->
