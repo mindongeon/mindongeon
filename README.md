@@ -4,10 +4,10 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     402 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-🌆 낮　                     1517 commits        █████████░░░░░░░░░░░░░░░░   35.89 % 
-🌃 저녁                     1667 commits        ██████████░░░░░░░░░░░░░░░   39.44 % 
-🌙 밤　                     641 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+🌞 아침                     403 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌆 낮　                     1520 commits        █████████░░░░░░░░░░░░░░░░   35.92 % 
+🌃 저녁                     1668 commits        ██████████░░░░░░░░░░░░░░░   39.41 % 
+🌙 밤　                     641 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
 ```
 
 
@@ -17,22 +17,39 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-SQL                      2 hrs 50 mins       ███████████░░░░░░░░░░░░░░   45.21 % 
-Java                     1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-CLASS                    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-ThinClientFileType       42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-XML                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+SQL                      2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.07 % 
+CLASS                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Java                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+ThinClientFileType       42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+XML                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            6 hrs 17 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            6 hrs 41 mins       ██████████████████████░░░   86.97 % 
+Claude Code              1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 1 min (13.39%)
+
+✍️ 436 lines written by AI, 24,934 lines written by hand (1.72% AI-written)
+
+🔤 256,118 Input Tokens, 98,977 Output Tokens
+
+💵 $6.75 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 21 AI Prompts
+
+Opus                     436 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 1.72% of written lines came from AI
+📝 Concise Prompter — average 438 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 99.51% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 20:38:12 UTC
+ Last Updated on 14/10/2026 19:17:59 UTC
 <!--END_SECTION:waka-->
