@@ -17,23 +17,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-SQL                      2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.04 % 
-CLASS                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Java                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-ThinClientFileType       42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-XML                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+SQL                      3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.94 % 
+Java                     1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+CLASS                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+ThinClientFileType       43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+XML                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            6 hrs 41 mins       ██████████████████████░░░   86.99 % 
-Claude Code              1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+IntelliJ IDEA            7 hrs 10 mins       ██████████████████████░░░   87.74 % 
+Claude Code              1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (13.38%)
+⏱ AI Coding Time: 1 hr 1 min (12.6%)
 
-✍️ 436 lines written by AI, 24,934 lines written by hand (1.72% AI-written)
+✍️ 436 lines written by AI, 24,976 lines written by hand (1.72% AI-written)
 
 🔤 256,118 Input Tokens, 98,977 Output Tokens
 
@@ -51,5 +51,5 @@ Opus                     436 lines           ███████████�
 ```
 
 
- Last Updated on 15/10/2026 19:04:55 UTC
+ Last Updated on 16/10/2026 18:48:35 UTC
 <!--END_SECTION:waka-->
