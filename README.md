@@ -17,23 +17,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-SQL                      3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.94 % 
-Java                     1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-CLASS                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-ThinClientFileType       43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-XML                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Java                     1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+SQL                      1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+CLASS                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+ThinClientFileType       43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+XML                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            7 hrs 10 mins       ██████████████████████░░░   87.74 % 
-Claude Code              1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+IntelliJ IDEA            6 hrs 41 mins       ██████████████████████░░░   87.00 % 
+Claude Code              1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (12.6%)
+⏱ AI Coding Time: 1 hr 1 min (13.37%)
 
-✍️ 436 lines written by AI, 24,976 lines written by hand (1.72% AI-written)
+✍️ 436 lines written by AI, 207 lines written by hand (67.81% AI-written)
 
 🔤 256,118 Input Tokens, 98,977 Output Tokens
 
@@ -44,12 +44,12 @@ Claude Code              1 hr                ███░░░░░░░░�
 Opus                     436 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.72% of written lines came from AI
+🤖 AI-Driven — 67.81% of written lines came from AI
 📝 Concise Prompter — average 438 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 99.51% of changed lines were hand-edited
+🚀 High AI Trust — 33.33% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/10/2026 18:02:01 UTC
+ Last Updated on 19/10/2026 20:35:08 UTC
 <!--END_SECTION:waka-->
