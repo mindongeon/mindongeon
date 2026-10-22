@@ -1,5 +1,5 @@
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2014%20mins-blue?style=flat)
 
 **저는 저녁형 인간이에요. 🦉** 
 
@@ -17,23 +17,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     3 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.53 % 
-SQL                      1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Java Properties          57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-JavaScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Java                     4 hrs               ██████████░░░░░░░░░░░░░░░   40.39 % 
+SQL                      2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+Java Properties          57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Kotlin                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            6 hrs 34 mins       █████████████████████░░░░   82.59 % 
-Claude Code              1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+IntelliJ IDEA            8 hrs 31 mins       ██████████████████████░░░   86.02 % 
+Claude Code              1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 23 mins (17.52%)
+⏱ AI Coding Time: 1 hr 23 mins (14.07%)
 
-✍️ 1,454 lines written by AI, 18,593 lines written by hand (7.25% AI-written)
+✍️ 1,454 lines written by AI, 18,648 lines written by hand (7.23% AI-written)
 
 🔤 592,696 Input Tokens, 190,865 Output Tokens
 
@@ -44,12 +44,12 @@ Claude Code              1 hr 23 mins        ████░░░░░░░�
 Opus                     1,708 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.25% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 7.23% of written lines came from AI
 📄 Detailed Prompter — average 1,080 characters per prompt
 🔁 Iterative Prompter — average 22 prompts per session
-🔍 Hands-On Reviewer — 92.29% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 92.32% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/10/2026 19:16:47 UTC
+ Last Updated on 22/10/2026 19:11:38 UTC
 <!--END_SECTION:waka-->
