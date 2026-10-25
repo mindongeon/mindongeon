@@ -4,10 +4,10 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-🌆 낮　                     1523 commits        █████████░░░░░░░░░░░░░░░░   35.91 % 
-🌃 저녁                     1668 commits        ██████████░░░░░░░░░░░░░░░   39.33 % 
-🌙 밤　                     641 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+🌞 아침                     388 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+🌆 낮　                     1493 commits        █████████░░░░░░░░░░░░░░░░   35.84 % 
+🌃 저녁                     1649 commits        ██████████░░░░░░░░░░░░░░░   39.58 % 
+🌙 밤　                     636 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 ```
 
 
@@ -35,22 +35,22 @@ IntelliJ IDEA            8 hrs 2 mins        ███████████�
 
 ✍️ 17,544 lines written by AI, 20,022 lines written by hand (46.7% AI-written)
 
-🔤 11,777,029 Input Tokens, 658,230 Output Tokens
+🔤 11,279,970 Input Tokens, 654,472 Output Tokens
 
-💵 $120.54 Estimated AI Cost This Week
+💵 $117.51 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 63 AI Prompts
+🧠 4 AI Sessions, 60 AI Prompts
 
 Opus                     18,029 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 46.7% of written lines came from AI
-📚 Verbose Prompter — average 2,266 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📚 Verbose Prompter — average 2,171 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
 🔍 Hands-On Reviewer — 56.9% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 18:04:26 UTC
+ Last Updated on 25/10/2026 18:25:12 UTC
 <!--END_SECTION:waka-->
