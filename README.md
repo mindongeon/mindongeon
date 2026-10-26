@@ -4,10 +4,10 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     388 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-🌆 낮　                     1493 commits        █████████░░░░░░░░░░░░░░░░   35.84 % 
-🌃 저녁                     1649 commits        ██████████░░░░░░░░░░░░░░░   39.58 % 
-🌙 밤　                     636 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+🌞 아침                     409 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+🌆 낮　                     1523 commits        █████████░░░░░░░░░░░░░░░░   35.89 % 
+🌃 저녁                     1671 commits        ██████████░░░░░░░░░░░░░░░   39.37 % 
+🌙 밤　                     641 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
 ```
 
 
@@ -17,40 +17,40 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Rust                     4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.28 % 
-Java                     3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Markdown                 3 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-SQL                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Java Properties          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Java                     3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+SQL                      2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Markdown                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Rust                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Java Properties          39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 🔥 에디터들: 
-Claude Code              9 hrs 56 mins       ██████████████░░░░░░░░░░░   55.26 % 
-IntelliJ IDEA            8 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.74 % 
+IntelliJ IDEA            7 hrs 32 mins       ████████████████░░░░░░░░░   63.84 % 
+Claude Code              4 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 56 mins (55.3%)
+⏱ AI Coding Time: 4 hrs 16 mins (36.23%)
 
-✍️ 17,544 lines written by AI, 20,022 lines written by hand (46.7% AI-written)
+✍️ 7,997 lines written by AI, 20,012 lines written by hand (28.55% AI-written)
 
-🔤 11,279,970 Input Tokens, 654,472 Output Tokens
+🔤 5,597,205 Input Tokens, 378,414 Output Tokens
 
-💵 $117.51 Estimated AI Cost This Week
+💵 $55.71 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 60 AI Prompts
+🧠 3 AI Sessions, 38 AI Prompts
 
-Opus                     18,029 lines        █████████████████████████   100.00 % 
+Opus                     8,440 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.7% of written lines came from AI
-📚 Verbose Prompter — average 2,171 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🔍 Hands-On Reviewer — 56.9% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 28.55% of written lines came from AI
+📚 Verbose Prompter — average 1,777 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🔍 Hands-On Reviewer — 73.81% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 18:25:12 UTC
+ Last Updated on 26/10/2026 20:28:22 UTC
 <!--END_SECTION:waka-->
