@@ -17,39 +17,22 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.57 % 
-SQL                      2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-Kotlin                   1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-HTML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+SQL                      1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   31.17 % 
+Java                     1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+Kotlin                   1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+INI                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            7 hrs 34 mins       █████████████████████░░░░   84.52 % 
-Claude Code              1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+IntelliJ IDEA            6 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 23 mins (15.58%)
-
-✍️ 1,454 lines written by AI, 18,842 lines written by hand (7.16% AI-written)
-
-🔤 592,696 Input Tokens, 190,865 Output Tokens
-
-💵 $12.45 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 22 AI Prompts
-
-Opus                     1,708 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.16% of written lines came from AI
-📄 Detailed Prompter — average 1,080 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🔍 Hands-On Reviewer — 92.86% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/10/2026 20:04:07 UTC
+ Last Updated on 28/10/2026 20:14:51 UTC
 <!--END_SECTION:waka-->
